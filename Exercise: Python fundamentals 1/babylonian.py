@@ -3,8 +3,6 @@ number."""
 from argparse import ArgumentParser
 import sys
 
-# Collaborated by Sean Liu and Alan Zheng
-
 def sqrt_b(S, p = 1e-10):
     """
     Approximate square root of any positive number using Babylonian method
